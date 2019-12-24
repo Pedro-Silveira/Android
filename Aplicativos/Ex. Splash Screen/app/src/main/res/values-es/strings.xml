@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+
+    //Strings da Activity Main:
+    <string name="am_obrigado">¡Gracias por probar la aplicación!</string>
+    <string name="am_clique">¡Haz clic en el botón de abajo para volver a GitHub!</string>
+    <string name="btn_retornar">Volver</string>
+</resources>

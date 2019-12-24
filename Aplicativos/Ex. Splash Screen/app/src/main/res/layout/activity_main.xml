@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cl_layout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/iv_fundo2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/fundo" />
+
+    <TextView
+        android:id="@+id/tv_obrigado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:text="@string/am_obrigado"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_fundo2"
+        app:layout_constraintEnd_toEndOf="@+id/iv_fundo2"
+        app:layout_constraintStart_toStartOf="@+id/iv_fundo2"
+        app:layout_constraintTop_toTopOf="@+id/iv_fundo2"
+        app:layout_constraintVertical_bias="0.65" />
+
+    <TextView
+        android:id="@+id/tv_clique"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:text="@string/am_clique"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_fundo2"
+        app:layout_constraintEnd_toEndOf="@+id/iv_fundo2"
+        app:layout_constraintStart_toStartOf="@+id/iv_fundo2"
+        app:layout_constraintTop_toBottomOf="@+id/tv_obrigado"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btn_retornar"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/botao"
+        android:text="@string/btn_retornar"
+        android:textColor="#fff"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_fundo2"
+        app:layout_constraintEnd_toEndOf="@+id/iv_fundo2"
+        app:layout_constraintStart_toStartOf="@+id/iv_fundo2"
+        app:layout_constraintTop_toBottomOf="@+id/tv_clique" />
+
+    <ImageView
+        android:id="@+id/iv_mao"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_fundo2"
+        app:layout_constraintEnd_toEndOf="@+id/iv_fundo2"
+        app:layout_constraintStart_toStartOf="@+id/iv_fundo2"
+        app:layout_constraintTop_toTopOf="@+id/iv_fundo2"
+        app:layout_constraintVertical_bias="0.29000002"
+        app:srcCompat="@drawable/mao" />
+</android.support.constraint.ConstraintLayout>
