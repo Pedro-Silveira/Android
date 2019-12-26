@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="branco">#ffffff</color>
+    <color name="preto">#000000</color>
+
+    <!-- PALETA VERMELHA -->
+    <color name="vermelho50">#FFEBEE</color>
+    <color name="vermelho100">#FFCDD2</color>
+    <color name="vermelho200">#EF9A9A</color>
+    <color name="vermelho300">#E57373</color>
+    <color name="vermelho400">#EF5350</color>
+    <color name="vermelho500">#F44336</color>
+    <color name="vermelho600">#E53935</color>
+    <color name="vermelho700">#D32F2F</color>
+    <color name="vermelho800">#C62828</color>
+    <color name="vermelho900">#B71C1C</color>
+
+    <!-- PALETA ROSA -->
+    <color name="rosa50">#fce4ec</color>
+    <color name="rosa100">#f8bbd0</color>
+    <color name="rosa200">#f48fb1</color>
+    <color name="rosa300">#f06292</color>
+    <color name="rosa400">#ec407a</color>
+    <color name="rosa500">#e91e63</color>
+    <color name="rosa600">#d81b60</color>
+    <color name="rosa700">#c2185b</color>
+    <color name="rosa800">#ad1457</color>
+    <color name="rosa900">#880e4f</color>
+
+    <!-- PALETA VIOLETA -->
+    <color name="violeta50">#f3e5f5</color>
+    <color name="violeta100">#e1bee7</color>
+    <color name="violeta200">#ce93d8</color>
+    <color name="violeta300">#ba68c8</color>
+    <color name="violeta400">#ab47bc</color>
+    <color name="violeta500">#9c27b0</color>
+    <color name="violeta600">#8e24aa</color>
+    <color name="violeta700">#7b1fa2</color>
+    <color name="violeta800">#6a1b9a</color>
+    <color name="violeta900">#4a148c</color>
+
+    <!-- PALETA VIOLETA-ESCURO -->
+    <color name="violetaEscuro50">#ede7f6</color>
+    <color name="violetaEscuro100">#d1c4e9</color>
+    <color name="violetaEscuro200">#b39ddb</color>
+    <color name="violetaEscuro300">#9575cd</color>
+    <color name="violetaEscuro400">#7e57c2</color>
+    <color name="violetaEscuro500">#673ab7</color>
+    <color name="violetaEscuro600">#5e35b1</color>
+    <color name="violetaEscuro700">#512da8</color>
+    <color name="violetaEscuro800">#4527a0</color>
+    <color name="violetaEscuro900">#311b92</color>
+
+    <!-- PALETA ANIL -->
+    <color name="anil50">#e8eaf6</color>
+    <color name="anil100">#c5cae9</color>
+    <color name="anil200">#9fa8da</color>
+    <color name="anil300">#7986cb</color>
+    <color name="anil400">#5c6bc0</color>
+    <color name="anil500">#3f51b5</color>
+    <color name="anil600">#3949ab</color>
+    <color name="anil700">#303f9f</color>
+    <color name="anil800">#283593</color>
+    <color name="anil900">#1a237e</color>
+
+    <!-- PALETA AZUL -->
+    <color name="azul50">#e3f2fd</color>
+    <color name="azul100">#bbdefb</color>
+    <color name="azul200">#90caf9</color>
+    <color name="azul300">#64b5f6</color>
+    <color name="azul400">#42a5f5</color>
+    <color name="azul500">#2196f3</color>
+    <color name="azul600">#1e88e5</color>
+    <color name="azul700">#1976d2</color>
+    <color name="azul800">#1565c0</color>
+    <color name="azul900">#0d47a1</color>
+
+    <!-- PALETA AZUL-CLARO -->
+    <color name="azulClaro50">#e1f5fe</color>
+    <color name="azulClaro100">#b3e5fc</color>
+    <color name="azulClaro200">#81d4fa</color>
+    <color name="azulClaro300">#4fc3f7</color>
+    <color name="azulClaro400">#29b6f6</color>
+    <color name="azulClaro500">#03a9f4</color>
+    <color name="azulClaro600">#039be5</color>
+    <color name="azulClaro700">#0288d1</color>
+    <color name="azulClaro800">#0277bd</color>
+    <color name="azulClaro900">#01579b</color>
+
+    <!-- PALETA CIANO -->
+    <color name="ciano50">#e0f7fa</color>
+    <color name="ciano100">#b2ebf2</color>
+    <color name="ciano200">#80deea</color>
+    <color name="ciano300">#4dd0e1</color>
+    <color name="ciano400">#26c6da</color>
+    <color name="ciano500">#00bcd4</color>
+    <color name="ciano600">#00acc1</color>
+    <color name="ciano700">#0097a7</color>
+    <color name="ciano800">#00838f</color>
+    <color name="ciano900">#006064</color>
+
+    <!-- PALETA VERDE-AZULADO -->
+    <color name="verdeAzulado50">#e0f2f1</color>
+    <color name="verdeAzulado100">#b2dfdb</color>
+    <color name="verdeAzulado200">#80cbc4</color>
+    <color name="verdeAzulado300">#4db6ac</color>
+    <color name="verdeAzulado400">#26a69a</color>
+    <color name="verdeAzulado500">#009688</color>
+    <color name="verdeAzulado600">#00897b</color>
+    <color name="verdeAzulado700">#00796b</color>
+    <color name="verdeAzulado800">#00695c</color>
+    <color name="verdeAzulado900">#004d40</color>
+
+    <!-- PALETA VERDE -->
+    <color name="verde50">#e8f5e9</color>
+    <color name="verde100">#c8e6c9</color>
+    <color name="verde200">#a5d6a7</color>
+    <color name="verde300">#81c784</color>
+    <color name="verde400">#66bb6a</color>
+    <color name="verde500">#4caf50</color>
+    <color name="verde600">#43a047</color>
+    <color name="verde700">#388e3c</color>
+    <color name="verde800">#2e7d32</color>
+    <color name="verde900">#1b5e20</color>
+
+    <!-- PALETA VERDE-CLARO -->
+    <color name="verdeClaro50">#f1f8e9</color>
+    <color name="verdeClaro100">#dcedc8</color>
+    <color name="verdeClaro200">#c5e1a5</color>
+    <color name="verdeClaro300">#aed581</color>
+    <color name="verdeClaro400">#9ccc65</color>
+    <color name="verdeClaro500">#8bc34a</color>
+    <color name="verdeClaro600">#7cb342</color>
+    <color name="verdeClaro700">#689f38</color>
+    <color name="verdeClaro800">#558b2f</color>
+    <color name="verdeClaro900">#33691e</color>
+
+    <!-- PALETA LIMA -->
+    <color name="lima50">#f9fbe7</color>
+    <color name="lima100">#f0f4c3</color>
+    <color name="lima200">#e6ee9c</color>
+    <color name="lima300">#dce775</color>
+    <color name="lima400">#d4e157</color>
+    <color name="lima500">#cddc39</color>
+    <color name="lima600">#c0ca33</color>
+    <color name="lima700">#afb42b</color>
+    <color name="lima800">#9e9d24</color>
+    <color name="lima900">#827717</color>
+
+    <!-- PALETA AMARELA -->
+    <color name="amarelo50">#fffde7</color>
+    <color name="amarelo100">#fff9c4</color>
+    <color name="amarelo200">#fff59d</color>
+    <color name="amarelo300">#fff176</color>
+    <color name="amarelo400">#ffee58</color>
+    <color name="amarelo500">#ffeb3b</color>
+    <color name="amarelo600">#fdd835</color>
+    <color name="amarelo700">#fbc02d</color>
+    <color name="amarelo800">#f9a825</color>
+    <color name="amarelo900">#f57f17</color>
+
+    <!-- PALETA ÂMBAR -->
+    <color name="âmbar50">#fff8e1</color>
+    <color name="âmbar100">#ffecb3</color>
+    <color name="âmbar200">#ffe082</color>
+    <color name="âmbar300">#ffd54f</color>
+    <color name="âmbar400">#ffca28</color>
+    <color name="âmbar500">#ffc107</color>
+    <color name="âmbar600">#ffb300</color>
+    <color name="âmbar700">#ffa000</color>
+    <color name="âmbar800">#ff8f00</color>
+    <color name="âmbar900">#ff6f00</color>
+
+    <!-- PALETA LARANJA -->
+    <color name="laranja50">#fff3e0</color>
+    <color name="laranja100">#ffe0b2</color>
+    <color name="laranja200">#ffcc80</color>
+    <color name="laranja300">#ffb74d</color>
+    <color name="laranja400">#ffa726</color>
+    <color name="laranja500">#ff9800</color>
+    <color name="laranja600">#fb8c00</color>
+    <color name="laranja700">#f57c00</color>
+    <color name="laranja800">#ef6c00</color>
+    <color name="laranja900">#e65100</color>
+
+    <!-- PALETA LARANJA-ESCURO -->
+    <color name="laranjaEscuro50">#fbe9e7</color>
+    <color name="laranjaEscuro100">#ffccbc</color>
+    <color name="laranjaEscuro200">#ffab91</color>
+    <color name="laranjaEscuro300">#ff8a65</color>
+    <color name="laranjaEscuro400">#ff7043</color>
+    <color name="laranjaEscuro500">#ff5722</color>
+    <color name="laranjaEscuro600">#f4511e</color>
+    <color name="laranjaEscuro700">#e64a19</color>
+    <color name="laranjaEscuro800">#d84315</color>
+    <color name="laranjaEscuro900">#bf360c</color>
+
+    <!-- PALETA MARROM -->
+    <color name="marrom50">#efebe9</color>
+    <color name="marrom100">#d7ccc8</color>
+    <color name="marrom200">#bcaaa4</color>
+    <color name="marrom300">#a1887f</color>
+    <color name="marrom400">#8d6e63</color>
+    <color name="marrom500">#795548</color>
+    <color name="marrom600">#6d4c41</color>
+    <color name="marrom700">#5d4037</color>
+    <color name="marrom800">#4e342e</color>
+    <color name="marrom900">#3e2723</color>
+
+    <!-- PALETA CINZA -->
+    <color name="cinza50">#fafafa</color>
+    <color name="cinza100">#f5f5f5</color>
+    <color name="cinza200">#eeeeee</color>
+    <color name="cinza300">#e0e0e0</color>
+    <color name="cinza400">#bdbdbd</color>
+    <color name="cinza500">#9e9e9e</color>
+    <color name="cinza600">#757575</color>
+    <color name="cinza700">#616161</color>
+    <color name="cinza800">#424242</color>
+    <color name="cinza900">#212121</color>
+</resources>
