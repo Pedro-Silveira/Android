@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Internationalization</string>
+
+    //Strings da Activity Main:
+    <string name="am_tv_titulo">Let\'s try it!</string>
+    <string name="am_tv_texto">Click the button below and change the language of your phone to a different one!</string>
+    <string name="am_tv_dica">Tip: Choose countries that speak English, Spanish or Portuguese!</string>
+    <string name="btn_configurar">Configure</string>
+    <string name="am_snack">Select a different language from yours!</string>
+
+    //Strings da Tela de Obrigado:
+    <string name="am_obrigado">Thanks for testing the app!</string>
+    <string name="am_clique">Click the button below to return to GitHub!</string>
+    <string name="btn_retornar">Return</string>
+</resources>

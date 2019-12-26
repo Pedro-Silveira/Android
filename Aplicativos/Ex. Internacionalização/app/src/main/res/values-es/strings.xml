@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Internacionalización</string>
+
+    //Strings da Activity Main:
+    <string name="am_tv_titulo">¡Vamos a probar!</string>
+    <string name="am_tv_texto">¡Haga clic en el botón abajo y cambie el idioma de su teléfono a uno diferente!</string>
+    <string name="am_tv_dica">¡Consejo: elija países que hablen inglés, español o portugués!</string>
+    <string name="btn_configurar">Configurar</string>
+    <string name="am_snack">¡Selecciona un idioma diferente al tuyo!</string>
+
+    //Strings da Activity Main:
+    <string name="am_obrigado">¡Gracias por probar la aplicación!</string>
+    <string name="am_clique">¡Haz clic en el botón de abajo para volver a GitHub!</string>
+    <string name="btn_retornar">Volver</string>
+</resources>
