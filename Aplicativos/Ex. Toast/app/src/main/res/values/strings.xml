@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Toast</string>
+
+    //Strings da Activity Main:
+    <string name="tv_dica">Tip: Click on the image to test!</string>
+    <string name="a1">FIRST EXAMPLE:</string>
+    <string name="b1">In this example, Toast has the <b>default style</b>, a <b>short duration</b>, and <b>internationalization</b>.</string>
+    <string name="toast1">I am a common Toast.</string>
+    <string name="a2">SECOND EXAMPLE:</string>
+    <string name="b2">In this example, Toast has a <b>custom style</b>, a <b>long duration</b> and also has <b>internationalization</b>.</string>
+    <string name="toast2">I am a custom Toast.</string>
+
+    //Strings da Tela de Obrigado:
+    <string name="am_obrigado">Thanks for testing the app!</string>
+    <string name="am_clique">Click the button below to return to GitHub!</string>
+    <string name="btn_retornar">Return</string>
+</resources>
